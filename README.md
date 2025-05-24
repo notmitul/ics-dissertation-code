@@ -56,8 +56,15 @@ The demo notebook (`main.ipynb`) produces a sample ICS SED for:
 
 ## 📜 License & Citation
 
-This code is made available under the GNU License.  
-Please cite this repository or the dissertation if used in academic work:
+This project is licensed under the **GNU General Public License v3.0**.  
+You are free to use, modify, and distribute the code, provided that:
+- The same license is applied to any derived work.
+- Proper attribution is given to the original author.
+
+The full license text is available here:  
+[https://www.gnu.org/licenses/gpl-3.0.en.html](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+If used in academic work, please cite this repository or the dissertation:
 
 > *Mitul CK, “Modeling Inverse-Compton Scattering Using Semi-Analytical Methods”, M.Sc. Dissertation, 2025*
 
