@@ -30,7 +30,7 @@ Click below to run the demo notebook in your browser with no installation requir
 
 | File                | Description                                      |
 |---------------------|--------------------------------------------------|
-| `electrons.py`      | Electron energy distributions and normalization |
+| `electrons.py`      | Electron energy distributions                    |
 | `photons.py`        | Blackbody and power-law photon fields            |
 | `normalize.py`      | Integration and energy-density normalization     |
 | `inverse_compton.py`| ICS spectrum calculation (Thomson regime)        |
