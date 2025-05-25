@@ -10,8 +10,7 @@ This repository contains the full codebase developed as part of an M.Sc. Physics
 
 Click below to run the demo notebook in your browser with no installation required:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/your-username/ics-dissertation-code/blob/main/main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/ics-dissertation-code/blob/main/main.ipynb)
 
 > 📌 Replace `your-username` with your GitHub handle after uploading the repo.
 
@@ -65,7 +64,6 @@ The full license text is available here:
 [https://www.gnu.org/licenses/gpl-3.0.en.html](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ### 📚 How to Cite
-## 📚 How to Cite
 
 If you use this code or dissertation in your work, please cite it as:
 
@@ -82,6 +80,6 @@ Mitul Singh. (2025). *ics-dissertation-code* [Computer software]. GitHub. https:
 ## 📬 Contact
 
 For questions, suggestions, or collaborations:
-- 📧 Email: your.email@domain.com
-- 🔗 GitHub: [github.com/your-username](https://github.com/your-username)
+- 📧 Email: mitulsingh.02@yahoo.com
+- 🔗 GitHub: [github.com/notmitul](https://github.com/notmitul)
 
