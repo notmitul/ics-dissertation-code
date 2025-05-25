@@ -64,9 +64,18 @@ You are free to use, modify, and distribute the code, provided that:
 The full license text is available here:  
 [https://www.gnu.org/licenses/gpl-3.0.en.html](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-If used in academic work, please cite this repository or the dissertation:
+### 📚 How to Cite
+## 📚 How to Cite
 
-> *Mitul CK, “Modeling Inverse-Compton Scattering Using Semi-Analytical Methods”, M.Sc. Dissertation, 2025*
+If you use this code or dissertation in your work, please cite it as:
+
+**Dissertation:**
+
+Mitul Singh. (2025). *Study of inverse-Compton Scattering of photons by electrons* (Master’s dissertation). [AUUP].
+
+**GitHub Repository:**
+
+Mitul Singh. (2025). *ics-dissertation-code* [Computer software]. GitHub. https://github.com/your-username/ics-dissertation-code
 
 ---
 
