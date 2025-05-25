@@ -12,8 +12,6 @@ Click below to run the demo notebook in your browser with no installation requir
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/ics-dissertation-code/blob/main/main.ipynb)
 
-> 📌 Replace `your-username` with your GitHub handle after uploading the repo.
-
 ---
 
 ## 🧰 Features
