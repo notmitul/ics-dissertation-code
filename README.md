@@ -71,7 +71,7 @@ Mitul Singh. (2025). *Study of inverse-Compton Scattering of photons by electron
 
 **GitHub Repository:**
 
-Mitul Singh. (2025). *ics-dissertation-code* [Computer software]. GitHub. https://github.com/your-username/ics-dissertation-code
+Mitul Singh. (2025). *ics-dissertation-code* [Computer software]. GitHub. https://github.com/notmitul/ics-dissertation-code
 
 ---
 
