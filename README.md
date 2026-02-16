@@ -38,15 +38,15 @@ Click below to run the demo notebook in your browser with no installation requir
 ## 📊 Example Output
 
 The demo notebook (`main.ipynb`) produces a sample ICS SED for:
-- $\( \alpha = 2.0 \)$
-- \( \gamma_{\min} = 10^2 \), \( \gamma_{\max} = 10^5 \)
-- Planck photon field at \( T = 2.72 \,\mathrm{K} \)
+- $\alpha = 2.0$
+- $\gamma_{\min} = 10^2$, $\gamma_{\max} = 10^5$
+- Planck photon field at $T = 2.72$, $\mathrm{K}$
 
 ---
 
 ## 🧪 Validation
 
-- Emissivity scaling \( \epsilon_s \sim \gamma^2 \epsilon \) confirmed
+- Emissivity scaling $\epsilon_s \sim \gamma^2 \epsilon$ confirmed
 - Compared against Blumenthal & Gould (1970)
 
 ---
